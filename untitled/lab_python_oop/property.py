@@ -1,4 +1,4 @@
-class Colour:
+class Property:
     def __init__(self):
         self._col = None
 
